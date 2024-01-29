@@ -1,6 +1,6 @@
 # Two Player Dice Game
 
-- To run this project just clone or download the repository and run using npm start
+- To run this project just clone or download the repository and run using npm install
 
 - Tech Stack Used
    - Frontend - HTML, CSS and JavaScript
