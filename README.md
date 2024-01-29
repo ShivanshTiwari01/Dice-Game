@@ -2,6 +2,10 @@
 
 - To run this project just clone or download the repository and run using npm start
 
+- Tech Stack Used
+   - Frontend - HTML, CSS and JavaScript
+   - Backend - Nodejs and Expressjs
+
 ## Features
 
 - Every player keeps rolling dice until he gets a one
